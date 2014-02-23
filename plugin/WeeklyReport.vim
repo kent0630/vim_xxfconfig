@@ -8,7 +8,6 @@
         " 4、异常和成功的提示
         " 5、发送邮件功能
 " FIXME " 1、如何导入自定义python文件
-"------------------------------------------------------------------------------
 " 该插件需要python支持
 if !has('python')
     echo "Error: Required vim compiled with +python"
